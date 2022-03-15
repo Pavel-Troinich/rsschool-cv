@@ -28,17 +28,13 @@ I studied at **BSUIR** as a radio engineer. But I never got any work experience 
 **JS** - basic
 
 ### Code example
-`function dataReverse(data) {`
-  `let rev = []`
-  `for (let i = data.length; i>=0; i-=8) {`
-  `rev = rev.concat(data.slice(i-8, i))`
-  `}`
-  `return rev`
+`function dataReverse(data) {`\
+  `let rev = []`\
+  `for (let i = data.length; i>=0; i-=8) {`\
+  `rev = rev.concat(data.slice(i-8, i))`\
+  `}`\
+  `return rev`\
 `}` 
-
-`function multiply (a, b) { `\
-`return a * b`\
-`}`
 
 
 ### English level
